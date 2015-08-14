@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SURFACEARCADIOW</Machine>
+    <WindowsUser>49pym</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>48875be9-d685-46d9-8bf8-bf5b51357fa2</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>DAC03033994EC74D5705B357B6959F64E1A8E793F3418B832CDF516E808EF85B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>48875be9-d685-46d9-8bf8-bf5b51357fa2_1.0.0.0_neutral__kmkw1nvan8826</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>48875be9-d685-46d9-8bf8-bf5b51357fa2_kmkw1nvan8826!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>48875be9-d685-46d9-8bf8-bf5b51357fa2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=49pym</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-14T10:24:14.727</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-08-14T10:19:09.923</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-06-16T15:50:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2015-06-04T20:32:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+      <Modified>2015-06-23T21:36:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+      <Modified>2015-06-23T21:36:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-06-04T20:32:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+      <Modified>2015-06-23T21:36:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+      <Modified>2015-06-23T21:36:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+      <Modified>2015-06-04T20:32:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-14T10:24:14.586</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
