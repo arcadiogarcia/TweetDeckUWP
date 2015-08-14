@@ -10,7 +10,7 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>48875be9-d685-46d9-8bf8-bf5b51357fa2</PackageIdentityName>
     <IntermediateOutputPath>C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\bld\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>BE3CB0BE106A6605C246F63C0E81964CE1E280CC40903279AEED149CFD6B93B8</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>29F93117BA48BB0E43E2D1799ACAB5EE9BC237DFAF2705D1D410B2B577F2F41B</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>48875be9-d685-46d9-8bf8-bf5b51357fa2_1.0.0.0_neutral__kmkw1nvan8826</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>48875be9-d685-46d9-8bf8-bf5b51357fa2_kmkw1nvan8826!App</RegisteredUserModeAppID>
     <RegisteredPackageID>48875be9-d685-46d9-8bf8-bf5b51357fa2</RegisteredPackageID>
@@ -22,14 +22,10 @@
     <AppXManifest Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-08-14T10:36:39.277</Modified>
+      <Modified>2015-08-14T10:39:23.148</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\default.html">
-      <PackagePath>default.html</PackagePath>
-      <Modified>2015-08-14T10:19:09.923</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-08-14T10:33:23.709</Modified>
@@ -58,41 +54,9 @@
       <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
       <Modified>2015-08-14T10:34:11.057</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\js\default.js">
-      <PackagePath>js\default.js</PackagePath>
-      <Modified>2015-06-16T15:50:28.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\WinJS\js\en-US\ui.strings.js">
-      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
-      <Modified>2015-06-04T20:32:02.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\WinJS\js\base.js">
-      <PackagePath>WinJS\js\base.js</PackagePath>
-      <Modified>2015-06-23T21:36:40.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\WinJS\js\ui.js">
-      <PackagePath>WinJS\js\ui.js</PackagePath>
-      <Modified>2015-06-23T21:36:40.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\css\default.css">
-      <PackagePath>css\default.css</PackagePath>
-      <Modified>2015-06-04T20:32:02.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\WinJS\css\ui-dark.css">
-      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
-      <Modified>2015-06-23T21:36:40.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\WinJS\css\ui-light.css">
-      <PackagePath>WinJS\css\ui-light.css</PackagePath>
-      <Modified>2015-06-23T21:36:40.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\WinJS\fonts\Symbols.ttf">
-      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
-      <Modified>2015-06-04T20:32:02.000</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-08-14T10:36:39.105</Modified>
+      <Modified>2015-08-14T10:39:22.893</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

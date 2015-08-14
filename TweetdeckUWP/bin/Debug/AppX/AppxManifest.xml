@@ -25,7 +25,7 @@
       <uap:ApplicationContentUriRules>
         <uap:Rule Match="https://tweetdeck.twitter.com/" Type="include" WindowsRuntimeAccess="none" />
       </uap:ApplicationContentUriRules>
-      <uap:VisualElements DisplayName="Tweetdeck" Description="A TweetDeck wrapper for W10" BackgroundColor="#3b90d1" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png">
+      <uap:VisualElements DisplayName="TweetDeck" Description="A TweetDeck wrapper for W10" BackgroundColor="#3b90d1" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png">
         <uap:DefaultTile Wide310x150Logo="images\Wide310x150Logo.png"></uap:DefaultTile>
         <uap:SplashScreen Image="images\splashscreen.png" />
         <uap:InitialRotationPreference>
