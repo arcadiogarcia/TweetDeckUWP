@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>SURFACEARCADIOW</Machine>
-    <WindowsUser>49pym</WindowsUser>
+    <Machine>DESKTOP-5RV7BP8</Machine>
+    <WindowsUser>Arcadio</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>48875be9-d685-46d9-8bf8-bf5b51357fa2</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\bld\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>29F93117BA48BB0E43E2D1799ACAB5EE9BC237DFAF2705D1D410B2B577F2F41B</RegisteredManifestChecksum>
+    <IntermediateOutputPath>C:\Users\Arcadio\Documents\GitHub\TweetDeckUWP\TweetdeckUWP\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>8F249C739E3587C4C65C2936BB005BE2B780BA73BF673F787E8E588DEC594885</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>48875be9-d685-46d9-8bf8-bf5b51357fa2_1.0.0.0_neutral__kmkw1nvan8826</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>48875be9-d685-46d9-8bf8-bf5b51357fa2_kmkw1nvan8826!App</RegisteredUserModeAppID>
     <RegisteredPackageID>48875be9-d685-46d9-8bf8-bf5b51357fa2</RegisteredPackageID>
@@ -19,44 +19,50 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Arcadio\Documents\GitHub\TweetDeckUWP\TweetdeckUWP\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-08-14T10:39:23.148</Modified>
+      <Modified>2016-05-06T09:19:55.533</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\images\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Arcadio\Documents\GitHub\TweetDeckUWP\TweetdeckUWP\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2015-08-14T10:33:23.709</Modified>
+      <Modified>2016-05-06T09:10:14.604</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\images\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Arcadio\Documents\GitHub\TweetDeckUWP\TweetdeckUWP\images\SplashScreen.scale-200.png">
       <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
-      <Modified>2015-08-14T10:33:54.738</Modified>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-06T09:10:14.606</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\images\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Arcadio\Documents\GitHub\TweetDeckUWP\TweetdeckUWP\images\Square150x150Logo.scale-200.png">
       <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
-      <Modified>2015-08-14T10:30:13.781</Modified>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-06T09:10:14.608</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\images\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Arcadio\Documents\GitHub\TweetDeckUWP\TweetdeckUWP\images\Square44x44Logo.scale-200.png">
       <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
-      <Modified>2015-08-14T10:32:25.481</Modified>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-06T09:10:14.610</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Arcadio\Documents\GitHub\TweetDeckUWP\TweetdeckUWP\images\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <Modified>2015-08-14T10:31:23.628</Modified>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-06T09:10:14.611</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\images\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Arcadio\Documents\GitHub\TweetDeckUWP\TweetdeckUWP\images\StoreLogo.png">
       <PackagePath>images\StoreLogo.png</PackagePath>
-      <Modified>2015-08-14T10:30:44.928</Modified>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-06T09:10:14.613</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\images\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Arcadio\Documents\GitHub\TweetDeckUWP\TweetdeckUWP\images\Wide310x150Logo.scale-200.png">
       <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
-      <Modified>2015-08-14T10:34:11.057</Modified>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-06T09:10:14.615</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\TweetdeckUWP\TweetdeckUWP\bin\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Arcadio\Documents\GitHub\TweetDeckUWP\TweetdeckUWP\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-08-14T10:39:22.893</Modified>
+      <Modified>2016-05-06T09:19:55.367</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

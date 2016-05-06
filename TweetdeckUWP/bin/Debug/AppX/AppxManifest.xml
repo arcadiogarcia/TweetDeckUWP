@@ -15,7 +15,7 @@
     <Logo>images\storelogo.png</Logo>
   </Properties>
   <Dependencies>
-    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.10240.0" MaxVersionTested="10.0.10240.0" />
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.10240.0" MaxVersionTested="10.0.10586.0" />
   </Dependencies>
   <Resources>
     <Resource Language="EN-US" />
@@ -24,6 +24,7 @@
     <Application Id="App" StartPage="https://tweetdeck.twitter.com/">
       <uap:ApplicationContentUriRules>
         <uap:Rule Match="https://tweetdeck.twitter.com/" Type="include" WindowsRuntimeAccess="none" />
+        <uap:Rule Match="https://twitter.com/" Type="include" WindowsRuntimeAccess="none" />
       </uap:ApplicationContentUriRules>
       <uap:VisualElements DisplayName="TweetDeck" Description="A TweetDeck wrapper for W10" BackgroundColor="#3b90d1" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png">
         <uap:DefaultTile Wide310x150Logo="images\Wide310x150Logo.png"></uap:DefaultTile>
@@ -41,11 +42,11 @@
   <build:Metadata>
     <build:Item Name="VisualStudio" Version="14.0" />
     <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Enterprise 2015" />
-    <build:Item Name="OperatingSystem" Version="10.0.10240.16384 (th1.150709-1700)" />
-    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="14.0.23121.0" />
+    <build:Item Name="OperatingSystem" Version="10.0.14332.1001 (rs1_release.160422-1940)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="14.0.25123.0" />
     <build:Item Name="ProjectGUID" Value="48875be9-d685-46d9-8bf8-bf5b51357fa2" />
     <build:Item Name="OptimizingToolset" Value="None" />
     <build:Item Name="TargetRuntime" Value="AppHost" />
-    <build:Item Name="MakePri.exe" Version="10.0.10240.16384 (th1.150709-1700)" />
+    <build:Item Name="MakePri.exe" Version="10.0.10586.212 (th2_release_sec.160328-1908)" />
   </build:Metadata>
 </Package>
